@@ -8,7 +8,6 @@ Eclipse library project based on:<br/>
 - [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat/tree/25.4.0)
 - [dandar3/android-support-core-ui](https://github.com/dandar3/android-support-core-ui/tree/25.4.0)
 - [dandar3/android-support-core-utils](https://github.com/dandar3/android-support-core-utils/tree/25.4.0)
-- [dandar3/android-support-media-compat](https://github.com/dandar3/android-support-media-compat/tree/25.4.0)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#25-4-0
