@@ -11,7 +11,7 @@ https://maven.google.com/com/android/support/support-fragment/27.0.0/support-fra
 - [dandar3/android-support-core-utils](https://github.com/dandar3/android-support-core-utils/tree/27.0.0)
 
 **References:**
-- https://developer.android.com/topic/libraries/support-library/revisions.html#27-0-0
+- https://developer.android.com/topic/libraries/support-library/revisions.html#27.0.0
 - https://developer.android.com/topic/libraries/support-library/packages.html#v4-fragment
 
 **SVN checkout:**
