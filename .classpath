@@ -8,5 +8,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-compat"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-ui"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-utils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-annotations"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
