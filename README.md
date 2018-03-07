@@ -9,6 +9,8 @@ https://maven.google.com/com/android/support/support-fragment/27.1.0/support-fra
 - [dandar3/android-support-compat](https://github.com/dandar3/android-support-compat/tree/27.1.0)
 - [dandar3/android-support-core-ui](https://github.com/dandar3/android-support-core-ui/tree/27.1.0)
 - [dandar3/android-support-core-utils](https://github.com/dandar3/android-support-core-utils/tree/27.1.0)
+- [dandar3/android-arch-lifecycle-livedata-core](https://github.com/dandar3/android-arch-lifecycle-livedata-core/tree/1.1.0)
+- [dandar3/android-arch-lifecycle-viewmodel](https://github.com/dandar3/android-arch-lifecycle-viewmodel/tree/1.1.0)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#27-1-0
